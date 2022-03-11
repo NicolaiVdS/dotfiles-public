@@ -1,0 +1,8 @@
+[user]
+	name = Nicolai Van der Storm
+	email = nicolai@nvds.be
+	signingkey = CA53B34914EFD59B
+[gpg]
+	program = gpg2
+[commit]
+	gpgsign = true

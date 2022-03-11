@@ -1,0 +1,8 @@
+[user]
+	signingkey = 2446C3AD07ECE365
+	name = Nicolai Van der Storm
+	email = nicolai.vanderstorm@nowjobs.com
+[gpg]
+	program = gpg2
+[commit]
+	gpgsign = true
